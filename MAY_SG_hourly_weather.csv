@@ -1,0 +1,709 @@
+date,time,weather_string,rain
+20190501,1:00,passing clouds.,False
+20190501,2:00,passing clouds.,False
+20190501,3:00,passing clouds.,False
+20190501,4:00,passing clouds.,False
+20190501,5:00,passing clouds.,False
+20190501,6:00,passing clouds.,False
+20190501,7:00,partly sunny.,False
+20190501,8:00,partly sunny.,False
+20190501,9:00,partly sunny.,False
+20190501,10:00,partly sunny.,False
+20190501,11:00,partly sunny.,False
+20190501,12:00,partly sunny.,False
+20190501,13:00,partly sunny.,False
+20190501,14:00,partly sunny.,False
+20190501,15:00,broken clouds.,False
+20190501,16:00,partly sunny.,False
+20190501,17:00,broken clouds.,False
+20190501,18:00,partly sunny.,False
+20190501,19:00,partly sunny.,False
+20190501,20:00,passing clouds.,False
+20190501,21:00,partly cloudy.,False
+20190501,22:00,passing clouds.,False
+20190501,23:00,passing clouds.,False
+20190502,1:00,passing clouds.,False
+20190502,2:00,passing clouds.,False
+20190502,3:00,passing clouds.,False
+20190502,4:00,passing clouds.,False
+20190502,5:00,passing clouds.,False
+20190502,6:00,passing clouds.,False
+20190502,7:00,broken clouds.,False
+20190502,8:00,partly sunny.,False
+20190502,9:00,partly sunny.,False
+20190502,10:00,partly sunny.,False
+20190502,11:00,partly sunny.,False
+20190502,12:00,partly sunny.,False
+20190502,13:00,sprinkles. scattered clouds.,False
+20190502,14:00,thundershowers. scattered clouds.,True
+20190502,15:00,thunderstorms. broken clouds.,True
+20190502,16:00,light rain. partly sunny.,True
+20190502,17:00,scattered clouds.,False
+20190502,18:00,partly sunny.,False
+20190502,19:00,partly sunny.,False
+20190502,20:00,passing clouds.,False
+20190502,21:00,passing clouds.,False
+20190502,22:00,passing clouds.,False
+20190502,23:00,passing clouds.,False
+20190503,1:00,passing clouds.,False
+20190503,2:00,passing clouds.,False
+20190503,3:00,passing clouds.,False
+20190503,4:00,passing clouds.,False
+20190503,5:00,passing clouds.,False
+20190503,6:00,passing clouds.,False
+20190503,7:00,partly sunny.,False
+20190503,8:00,partly sunny.,False
+20190503,9:00,broken clouds.,False
+20190503,10:00,broken clouds.,False
+20190503,11:00,broken clouds.,False
+20190503,12:00,thunderstorms. scattered clouds.,True
+20190503,13:00,sprinkles. scattered clouds.,False
+20190503,14:00,scattered clouds.,False
+20190503,15:00,scattered clouds.,False
+20190503,16:00,scattered clouds.,False
+20190503,17:00,scattered clouds.,False
+20190503,18:00,partly sunny.,False
+20190503,19:00,partly sunny.,False
+20190503,20:00,passing clouds.,False
+20190503,21:00,passing clouds.,False
+20190503,22:00,passing clouds.,False
+20190503,23:00,passing clouds.,False
+20190504,1:00,passing clouds.,False
+20190504,2:00,passing clouds.,False
+20190504,3:00,passing clouds.,False
+20190504,4:00,strong thunderstorms. passing clouds.,True
+20190504,5:00,passing clouds.,False
+20190504,6:00,passing clouds.,False
+20190504,7:00,partly sunny.,False
+20190504,8:00,partly sunny.,False
+20190504,9:00,broken clouds.,False
+20190504,10:00,scattered showers. partly sunny.,True
+20190504,11:00,scattered showers. partly sunny.,True
+20190504,12:00,scattered showers. scattered clouds.,True
+20190504,13:00,strong thunderstorms. scattered clouds.,True
+20190504,14:00,thundershowers. partly sunny.,True
+20190504,15:00,partly sunny.,False
+20190504,16:00,partly sunny.,False
+20190504,17:00,partly sunny.,False
+20190504,18:00,partly sunny.,False
+20190504,19:00,partly sunny.,False
+20190504,20:00,passing clouds.,False
+20190504,21:00,passing clouds.,False
+20190504,22:00,passing clouds.,False
+20190504,23:00,passing clouds.,False
+20190505,1:00,passing clouds.,False
+20190505,2:00,passing clouds.,False
+20190505,3:00,passing clouds.,False
+20190505,4:00,passing clouds.,False
+20190505,5:00,passing clouds.,False
+20190505,6:00,thunderstorms. passing clouds.,True
+20190505,7:00,partly sunny.,False
+20190505,8:00,partly sunny.,False
+20190505,9:00,partly sunny.,False
+20190505,10:00,partly sunny.,False
+20190505,11:00,partly sunny.,False
+20190505,12:00,broken clouds.,False
+20190505,13:00,broken clouds.,False
+20190505,14:00,thundershowers. partly sunny.,True
+20190505,15:00,partly sunny.,False
+20190505,16:00,broken clouds.,False
+20190505,17:00,partly sunny.,False
+20190505,18:00,partly sunny.,False
+20190505,19:00,broken clouds.,False
+20190505,20:00,passing clouds.,False
+20190505,21:00,passing clouds.,False
+20190505,22:00,passing clouds.,False
+20190505,23:00,passing clouds.,False
+20190506,1:00,passing clouds.,False
+20190506,2:00,passing clouds.,False
+20190506,3:00,passing clouds.,False
+20190506,4:00,passing clouds.,False
+20190506,5:00,passing clouds.,False
+20190506,6:00,passing clouds.,False
+20190506,7:00,partly sunny.,False
+20190506,8:00,partly sunny.,False
+20190506,9:00,partly sunny.,False
+20190506,10:00,partly sunny.,False
+20190506,11:00,partly sunny.,False
+20190506,12:00,partly sunny.,False
+20190506,13:00,partly sunny.,False
+20190506,14:00,partly sunny.,False
+20190506,15:00,partly sunny.,False
+20190506,16:00,partly sunny.,False
+20190506,17:00,partly sunny.,False
+20190506,18:00,partly sunny.,False
+20190506,19:00,partly sunny.,False
+20190506,20:00,passing clouds.,False
+20190506,21:00,passing clouds.,False
+20190506,22:00,passing clouds.,False
+20190506,23:00,passing clouds.,False
+20190507,1:00,passing clouds.,False
+20190507,2:00,passing clouds.,False
+20190507,3:00,passing clouds.,False
+20190507,4:00,passing clouds.,False
+20190507,5:00,passing clouds.,False
+20190507,6:00,passing clouds.,False
+20190507,7:00,partly sunny.,False
+20190507,8:00,partly sunny.,False
+20190507,9:00,partly sunny.,False
+20190507,10:00,scattered clouds.,False
+20190507,11:00,scattered showers. broken clouds.,True
+20190507,12:00,sprinkles. scattered clouds.,False
+20190507,13:00,partly sunny.,False
+20190507,14:00,partly sunny.,False
+20190507,15:00,partly sunny.,False
+20190507,16:00,partly sunny.,False
+20190507,17:00,partly sunny.,False
+20190507,18:00,partly sunny.,False
+20190507,19:00,partly sunny.,False
+20190507,20:00,passing clouds.,False
+20190507,21:00,passing clouds.,False
+20190507,22:00,passing clouds.,False
+20190507,23:00,passing clouds.,False
+20190508,1:00,passing clouds.,False
+20190508,2:00,passing clouds.,False
+20190508,3:00,thunderstorms. passing clouds.,True
+20190508,4:00,thunderstorms. passing clouds.,True
+20190508,5:00,thunderstorms. passing clouds.,True
+20190508,6:00,light rain. passing clouds.,True
+20190508,7:00,partly sunny.,False
+20190508,8:00,scattered showers. partly sunny.,True
+20190508,9:00,sprinkles. broken clouds.,False
+20190508,11:00,thunderstorms. scattered clouds.,True
+20190508,12:00,thunderstorms. partly sunny.,True
+20190508,13:00,partly sunny.,False
+20190508,14:00,partly sunny.,False
+20190508,15:00,partly sunny.,False
+20190508,16:00,partly sunny.,False
+20190508,17:00,partly sunny.,False
+20190508,18:00,broken clouds.,False
+20190508,19:00,broken clouds.,False
+20190508,20:00,partly cloudy.,False
+20190508,21:00,passing clouds.,False
+20190508,22:00,passing clouds.,False
+20190508,23:00,passing clouds.,False
+20190509,1:00,passing clouds.,False
+20190509,2:00,passing clouds.,False
+20190509,3:00,passing clouds.,False
+20190509,4:00,passing clouds.,False
+20190509,5:00,passing clouds.,False
+20190509,6:00,passing clouds.,False
+20190509,7:00,partly sunny.,False
+20190509,8:00,partly sunny.,False
+20190509,9:00,broken clouds.,False
+20190509,10:00,partly sunny.,False
+20190509,11:00,broken clouds.,False
+20190509,12:00,partly sunny.,False
+20190509,13:00,partly sunny.,False
+20190509,14:00,partly sunny.,False
+20190509,15:00,partly sunny.,False
+20190509,16:00,partly sunny.,False
+20190509,17:00,partly sunny.,False
+20190509,18:00,partly sunny.,False
+20190509,19:00,partly sunny.,False
+20190509,20:00,passing clouds.,False
+20190509,21:00,passing clouds.,False
+20190509,22:00,passing clouds.,False
+20190509,23:00,passing clouds.,False
+20190510,1:00,passing clouds.,False
+20190510,2:00,passing clouds.,False
+20190510,3:00,thunderstorms. passing clouds.,True
+20190510,4:00,thunderstorms. passing clouds.,True
+20190510,5:00,thunderstorms. passing clouds.,True
+20190510,6:00,thunderstorms. passing clouds.,True
+20190510,7:00,light rain. partly sunny.,True
+20190510,8:00,scattered clouds.,False
+20190510,9:00,partly sunny.,False
+20190510,10:00,partly sunny.,False
+20190510,11:00,partly sunny.,False
+20190510,12:00,partly sunny.,False
+20190510,13:00,broken clouds.,False
+20190510,14:00,broken clouds.,False
+20190510,15:00,partly sunny.,False
+20190510,16:00,partly sunny.,False
+20190510,17:00,partly sunny.,False
+20190510,18:00,partly sunny.,False
+20190510,19:00,partly sunny.,False
+20190510,20:00,passing clouds.,False
+20190510,21:00,passing clouds.,False
+20190510,22:00,passing clouds.,False
+20190510,23:00,passing clouds.,False
+20190511,1:00,passing clouds.,False
+20190511,2:00,passing clouds.,False
+20190511,3:00,passing clouds.,False
+20190511,4:00,passing clouds.,False
+20190511,5:00,passing clouds.,False
+20190511,6:00,passing clouds.,False
+20190511,7:00,partly sunny.,False
+20190511,8:00,partly sunny.,False
+20190511,9:00,thundershowers. scattered clouds.,True
+20190511,10:00,strong thunderstorms. scattered clouds.,True
+20190511,11:00,thunderstorms. scattered clouds.,True
+20190511,12:00,light rain. partly sunny.,True
+20190511,13:00,scattered clouds.,False
+20190511,14:00,scattered clouds.,False
+20190511,15:00,partly sunny.,False
+20190511,16:00,scattered clouds.,False
+20190511,17:00,scattered clouds.,False
+20190511,18:00,partly sunny.,False
+20190511,19:00,partly sunny.,False
+20190511,20:00,passing clouds.,False
+20190511,21:00,passing clouds.,False
+20190511,22:00,passing clouds.,False
+20190511,23:00,passing clouds.,False
+20190512,1:00,passing clouds.,False
+20190512,2:00,passing clouds.,False
+20190512,3:00,passing clouds.,False
+20190512,4:00,passing clouds.,False
+20190512,5:00,passing clouds.,False
+20190512,6:00,passing clouds.,False
+20190512,7:00,partly sunny.,False
+20190512,8:00,partly sunny.,False
+20190512,9:00,partly sunny.,False
+20190512,10:00,partly sunny.,False
+20190512,11:00,partly sunny.,False
+20190512,12:00,partly sunny.,False
+20190512,13:00,partly sunny.,False
+20190512,14:00,thundershowers. partly sunny.,True
+20190512,15:00,sprinkles. scattered clouds.,False
+20190512,16:00,scattered clouds.,False
+20190512,17:00,scattered clouds.,False
+20190512,18:00,partly sunny.,False
+20190512,19:00,scattered clouds.,False
+20190512,20:00,passing clouds.,False
+20190512,21:00,passing clouds.,False
+20190512,22:00,passing clouds.,False
+20190512,23:00,partly cloudy.,False
+20190513,1:00,passing clouds.,False
+20190513,2:00,passing clouds.,False
+20190513,3:00,passing clouds.,False
+20190513,4:00,passing clouds.,False
+20190513,5:00,passing clouds.,False
+20190513,6:00,passing clouds.,False
+20190513,7:00,thunderstorms. partly sunny.,True
+20190513,8:00,thundershowers. partly sunny.,True
+20190513,9:00,scattered showers. partly sunny.,True
+20190513,10:00,broken clouds.,False
+20190513,11:00,partly sunny.,False
+20190513,12:00,partly sunny.,False
+20190513,13:00,partly sunny.,False
+20190513,14:00,partly sunny.,False
+20190513,15:00,thundershowers. broken clouds.,True
+20190513,16:00,thunderstorms. scattered clouds.,True
+20190513,17:00,sprinkles. partly sunny.,False
+20190513,18:00,light rain. scattered clouds.,True
+20190513,19:00,scattered clouds.,False
+20190513,20:00,passing clouds.,False
+20190513,21:00,passing clouds.,False
+20190513,22:00,partly cloudy.,False
+20190513,23:00,passing clouds.,False
+20190514,1:00,passing clouds.,False
+20190514,2:00,passing clouds.,False
+20190514,3:00,passing clouds.,False
+20190514,4:00,passing clouds.,False
+20190514,5:00,passing clouds.,False
+20190514,6:00,passing clouds.,False
+20190514,7:00,fog.,False
+20190514,8:00,partly sunny.,False
+20190514,9:00,partly sunny.,False
+20190514,10:00,partly sunny.,False
+20190514,11:00,partly sunny.,False
+20190514,12:00,partly sunny.,False
+20190514,13:00,partly sunny.,False
+20190514,14:00,partly sunny.,False
+20190514,15:00,partly sunny.,False
+20190514,16:00,scattered clouds.,False
+20190514,17:00,thundershowers. scattered clouds.,True
+20190514,18:00,thunderstorms. scattered clouds.,True
+20190514,19:00,thunderstorms. scattered clouds.,True
+20190514,20:00,light rain. passing clouds.,True
+20190514,21:00,light rain. passing clouds.,True
+20190514,22:00,passing clouds.,False
+20190514,23:00,passing clouds.,False
+20190515,1:00,passing clouds.,False
+20190515,2:00,passing clouds.,False
+20190515,3:00,passing clouds.,False
+20190515,4:00,passing clouds.,False
+20190515,5:00,passing clouds.,False
+20190515,6:00,passing clouds.,False
+20190515,7:00,partly sunny.,False
+20190515,8:00,partly sunny.,False
+20190515,9:00,partly sunny.,False
+20190515,10:00,broken clouds.,False
+20190515,11:00,broken clouds.,False
+20190515,12:00,scattered clouds.,False
+20190515,13:00,scattered showers. broken clouds.,True
+20190515,14:00,thundershowers. scattered clouds.,True
+20190515,15:00,scattered showers. scattered clouds.,True
+20190515,16:00,scattered showers. scattered clouds.,True
+20190515,17:00,scattered showers. partly sunny.,True
+20190515,18:00,thundershowers. scattered clouds.,True
+20190515,19:00,thundershowers. scattered clouds.,True
+20190515,20:00,passing clouds.,False
+20190515,21:00,passing clouds.,False
+20190515,22:00,passing clouds.,False
+20190515,23:00,passing clouds.,False
+20190516,1:00,passing clouds.,False
+20190516,2:00,passing clouds.,False
+20190516,3:00,passing clouds.,False
+20190516,4:00,passing clouds.,False
+20190516,5:00,passing clouds.,False
+20190516,6:00,passing clouds.,False
+20190516,7:00,partly sunny.,False
+20190516,8:00,partly sunny.,False
+20190516,10:00,scattered showers. partly sunny.,True
+20190516,11:00,scattered showers. partly sunny.,True
+20190516,13:00,partly sunny.,False
+20190516,14:00,partly sunny.,False
+20190516,15:00,scattered showers. scattered clouds.,True
+20190516,16:00,scattered showers. scattered clouds.,True
+20190516,17:00,broken clouds.,False
+20190516,18:00,partly sunny.,False
+20190516,19:00,partly sunny.,False
+20190516,20:00,passing clouds.,False
+20190516,21:00,passing clouds.,False
+20190516,22:00,passing clouds.,False
+20190516,23:00,passing clouds.,False
+20190517,1:00,passing clouds.,False
+20190517,2:00,partly cloudy.,False
+20190517,3:00,strong thunderstorms. passing clouds.,True
+20190517,4:00,thunderstorms. passing clouds.,True
+20190517,5:00,thunderstorms. passing clouds.,True
+20190517,6:00,passing clouds.,False
+20190517,7:00,partly sunny.,False
+20190517,8:00,partly sunny.,False
+20190517,9:00,partly sunny.,False
+20190517,10:00,partly sunny.,False
+20190517,11:00,partly sunny.,False
+20190517,12:00,partly sunny.,False
+20190517,13:00,broken clouds.,False
+20190517,14:00,broken clouds.,False
+20190517,15:00,partly sunny.,False
+20190517,16:00,partly sunny.,False
+20190517,17:00,partly sunny.,False
+20190517,18:00,broken clouds.,False
+20190517,19:00,partly sunny.,False
+20190517,20:00,passing clouds.,False
+20190517,21:00,passing clouds.,False
+20190517,22:00,passing clouds.,False
+20190517,23:00,passing clouds.,False
+20190518,1:00,passing clouds.,False
+20190518,2:00,passing clouds.,False
+20190518,3:00,partly cloudy.,False
+20190518,4:00,passing clouds.,False
+20190518,5:00,partly cloudy.,False
+20190518,6:00,passing clouds.,False
+20190518,7:00,partly sunny.,False
+20190518,8:00,partly sunny.,False
+20190518,9:00,scattered clouds.,False
+20190518,10:00,scattered clouds.,False
+20190518,11:00,scattered clouds.,False
+20190518,12:00,broken clouds.,False
+20190518,13:00,scattered clouds.,False
+20190518,14:00,partly sunny.,False
+20190518,15:00,partly sunny.,False
+20190518,16:00,partly sunny.,False
+20190518,17:00,partly sunny.,False
+20190518,18:00,broken clouds.,False
+20190518,19:00,broken clouds.,False
+20190518,20:00,passing clouds.,False
+20190518,21:00,passing clouds.,False
+20190518,22:00,passing clouds.,False
+20190518,23:00,passing clouds.,False
+20190519,1:00,passing clouds.,False
+20190519,2:00,passing clouds.,False
+20190519,3:00,passing clouds.,False
+20190519,4:00,passing clouds.,False
+20190519,5:00,passing clouds.,False
+20190519,6:00,passing clouds.,False
+20190519,7:00,partly sunny.,False
+20190519,8:00,partly sunny.,False
+20190519,9:00,thundershowers. scattered clouds.,True
+20190519,10:00,thunderstorms. partly sunny.,True
+20190519,11:00,partly sunny.,False
+20190519,12:00,partly sunny.,False
+20190519,13:00,partly sunny.,False
+20190519,14:00,light rain. broken clouds.,True
+20190519,15:00,partly sunny.,False
+20190519,16:00,partly sunny.,False
+20190519,17:00,partly sunny.,False
+20190519,18:00,partly sunny.,False
+20190519,19:00,scattered clouds.,False
+20190519,20:00,passing clouds.,False
+20190519,21:00,passing clouds.,False
+20190519,22:00,passing clouds.,False
+20190519,23:00,passing clouds.,False
+20190520,1:00,passing clouds.,False
+20190520,2:00,passing clouds.,False
+20190520,3:00,passing clouds.,False
+20190520,4:00,partly cloudy.,False
+20190520,5:00,passing clouds.,False
+20190520,6:00,passing clouds.,False
+20190520,7:00,partly sunny.,False
+20190520,8:00,partly sunny.,False
+20190520,9:00,partly sunny.,False
+20190520,10:00,broken clouds.,False
+20190520,11:00,broken clouds.,False
+20190520,12:00,scattered showers. partly sunny.,True
+20190520,13:00,scattered showers. scattered clouds.,True
+20190520,14:00,partly sunny.,False
+20190520,15:00,partly sunny.,False
+20190520,16:00,partly sunny.,False
+20190520,17:00,partly sunny.,False
+20190520,18:00,partly sunny.,False
+20190520,19:00,partly sunny.,False
+20190520,20:00,passing clouds.,False
+20190520,21:00,passing clouds.,False
+20190520,22:00,passing clouds.,False
+20190520,23:00,passing clouds.,False
+20190521,1:00,passing clouds.,False
+20190521,2:00,passing clouds.,False
+20190521,3:00,passing clouds.,False
+20190521,4:00,passing clouds.,False
+20190521,5:00,passing clouds.,False
+20190521,6:00,passing clouds.,False
+20190521,7:00,broken clouds.,False
+20190521,8:00,partly sunny.,False
+20190521,9:00,broken clouds.,False
+20190521,10:00,broken clouds.,False
+20190521,11:00,partly sunny.,False
+20190521,12:00,partly sunny.,False
+20190521,13:00,broken clouds.,False
+20190521,14:00,scattered clouds.,False
+20190521,15:00,scattered showers. broken clouds.,True
+20190521,16:00,scattered showers. broken clouds.,True
+20190521,17:00,sprinkles. broken clouds.,False
+20190521,18:00,scattered showers. partly sunny.,True
+20190521,19:00,broken clouds.,False
+20190521,20:00,passing clouds.,False
+20190521,21:00,passing clouds.,False
+20190521,22:00,passing clouds.,False
+20190521,23:00,passing clouds.,False
+20190522,1:00,partly cloudy.,False
+20190522,2:00,partly cloudy.,False
+20190522,3:00,passing clouds.,False
+20190522,4:00,passing clouds.,False
+20190522,5:00,passing clouds.,False
+20190522,6:00,passing clouds.,False
+20190522,7:00,partly sunny.,False
+20190522,8:00,partly sunny.,False
+20190522,9:00,partly sunny.,False
+20190522,10:00,partly sunny.,False
+20190522,11:00,scattered clouds.,False
+20190522,12:00,thundershowers. scattered clouds.,True
+20190522,13:00,thunderstorms. scattered clouds.,True
+20190522,14:00,scattered showers. scattered clouds.,True
+20190522,15:00,partly sunny.,False
+20190522,16:00,broken clouds.,False
+20190522,17:00,partly sunny.,False
+20190522,18:00,partly sunny.,False
+20190522,19:00,partly sunny.,False
+20190522,20:00,passing clouds.,False
+20190522,21:00,passing clouds.,False
+20190522,22:00,partly cloudy.,False
+20190522,23:00,partly cloudy.,False
+20190523,1:00,partly cloudy.,False
+20190523,2:00,passing clouds.,False
+20190523,3:00,partly cloudy.,False
+20190523,4:00,passing clouds.,False
+20190523,5:00,passing clouds.,False
+20190523,6:00,passing clouds.,False
+20190523,7:00,partly sunny.,False
+20190523,8:00,scattered showers. scattered clouds.,True
+20190523,9:00,scattered showers. broken clouds.,True
+20190523,10:00,partly sunny.,False
+20190523,11:00,partly sunny.,False
+20190523,12:00,partly sunny.,False
+20190523,13:00,partly sunny.,False
+20190523,14:00,partly sunny.,False
+20190523,15:00,partly sunny.,False
+20190523,16:00,partly sunny.,False
+20190523,17:00,partly sunny.,False
+20190523,18:00,partly sunny.,False
+20190523,19:00,partly sunny.,False
+20190523,20:00,passing clouds.,False
+20190523,21:00,passing clouds.,False
+20190523,22:00,passing clouds.,False
+20190523,23:00,passing clouds.,False
+20190524,1:00,passing clouds.,False
+20190524,2:00,partly cloudy.,False
+20190524,3:00,passing clouds.,False
+20190524,4:00,passing clouds.,False
+20190524,5:00,passing clouds.,False
+20190524,6:00,passing clouds.,False
+20190524,7:00,partly sunny.,False
+20190524,8:00,partly sunny.,False
+20190524,9:00,partly sunny.,False
+20190524,10:00,partly sunny.,False
+20190524,11:00,broken clouds.,False
+20190524,12:00,partly sunny.,False
+20190524,13:00,broken clouds.,False
+20190524,14:00,partly sunny.,False
+20190524,15:00,partly sunny.,False
+20190524,16:00,partly sunny.,False
+20190524,17:00,partly sunny.,False
+20190524,18:00,partly sunny.,False
+20190524,19:00,partly sunny.,False
+20190524,20:00,passing clouds.,False
+20190524,21:00,passing clouds.,False
+20190524,22:00,passing clouds.,False
+20190524,23:00,passing clouds.,False
+20190525,1:00,passing clouds.,False
+20190525,2:00,passing clouds.,False
+20190525,3:00,passing clouds.,False
+20190525,4:00,passing clouds.,False
+20190525,5:00,passing clouds.,False
+20190525,6:00,passing clouds.,False
+20190525,7:00,partly sunny.,False
+20190525,8:00,partly sunny.,False
+20190525,9:00,broken clouds.,False
+20190525,10:00,broken clouds.,False
+20190525,11:00,scattered showers. partly sunny.,True
+20190525,12:00,partly sunny.,False
+20190525,13:00,scattered showers. partly sunny.,True
+20190525,14:00,scattered showers. broken clouds.,True
+20190525,15:00,thundershowers. broken clouds.,True
+20190525,16:00,broken clouds.,False
+20190525,17:00,partly sunny.,False
+20190525,18:00,scattered clouds.,False
+20190525,19:00,partly sunny.,False
+20190525,20:00,passing clouds.,False
+20190525,21:00,passing clouds.,False
+20190525,22:00,passing clouds.,False
+20190525,23:00,passing clouds.,False
+20190526,1:00,passing clouds.,False
+20190526,2:00,passing clouds.,False
+20190526,3:00,passing clouds.,False
+20190526,4:00,passing clouds.,False
+20190526,5:00,passing clouds.,False
+20190526,6:00,passing clouds.,False
+20190526,7:00,partly sunny.,False
+20190526,8:00,partly sunny.,False
+20190526,9:00,partly sunny.,False
+20190526,10:00,broken clouds.,False
+20190526,11:00,broken clouds.,False
+20190526,12:00,broken clouds.,False
+20190526,13:00,partly sunny.,False
+20190526,14:00,partly sunny.,False
+20190526,15:00,partly sunny.,False
+20190526,16:00,scattered showers. partly sunny.,True
+20190526,17:00,scattered showers. partly sunny.,True
+20190526,18:00,partly sunny.,False
+20190526,19:00,partly sunny.,False
+20190526,20:00,passing clouds.,False
+20190526,21:00,passing clouds.,False
+20190526,22:00,passing clouds.,False
+20190526,23:00,passing clouds.,False
+20190527,1:00,passing clouds.,False
+20190527,2:00,passing clouds.,False
+20190527,3:00,passing clouds.,False
+20190527,4:00,partly cloudy.,False
+20190527,5:00,passing clouds.,False
+20190527,6:00,passing clouds.,False
+20190527,7:00,partly sunny.,False
+20190527,8:00,partly sunny.,False
+20190527,9:00,broken clouds.,False
+20190527,10:00,partly sunny.,False
+20190527,11:00,broken clouds.,False
+20190527,12:00,broken clouds.,False
+20190527,13:00,scattered showers. broken clouds.,True
+20190527,14:00,partly sunny.,False
+20190527,15:00,scattered showers. scattered clouds.,True
+20190527,16:00,scattered showers. scattered clouds.,True
+20190527,17:00,scattered clouds.,False
+20190527,18:00,scattered clouds.,False
+20190527,19:00,partly sunny.,False
+20190527,20:00,passing clouds.,False
+20190527,21:00,passing clouds.,False
+20190527,22:00,passing clouds.,False
+20190527,23:00,passing clouds.,False
+20190528,1:00,passing clouds.,False
+20190528,2:00,passing clouds.,False
+20190528,3:00,passing clouds.,False
+20190528,4:00,passing clouds.,False
+20190528,5:00,passing clouds.,False
+20190528,6:00,passing clouds.,False
+20190528,7:00,partly sunny.,False
+20190528,8:00,partly sunny.,False
+20190528,9:00,partly sunny.,False
+20190528,10:00,broken clouds.,False
+20190528,11:00,scattered showers. broken clouds.,True
+20190528,12:00,scattered showers. scattered clouds.,True
+20190528,13:00,scattered showers. scattered clouds.,True
+20190528,14:00,thundershowers. scattered clouds.,True
+20190528,15:00,broken clouds.,False
+20190528,16:00,scattered showers. partly sunny.,True
+20190528,17:00,partly sunny.,False
+20190528,18:00,partly sunny.,False
+20190528,19:00,partly sunny.,False
+20190528,20:00,passing clouds.,False
+20190528,21:00,passing clouds.,False
+20190528,22:00,passing clouds.,False
+20190528,23:00,sprinkles. passing clouds.,False
+20190529,1:00,passing clouds.,False
+20190529,2:00,passing clouds.,False
+20190529,3:00,passing clouds.,False
+20190529,4:00,passing clouds.,False
+20190529,5:00,passing clouds.,False
+20190529,6:00,passing clouds.,False
+20190529,7:00,partly sunny.,False
+20190529,8:00,partly sunny.,False
+20190529,9:00,partly sunny.,False
+20190529,10:00,broken clouds.,False
+20190529,11:00,broken clouds.,False
+20190529,12:00,partly sunny.,False
+20190529,13:00,partly sunny.,False
+20190529,14:00,partly sunny.,False
+20190529,15:00,partly sunny.,False
+20190529,16:00,scattered showers. broken clouds.,True
+20190529,17:00,scattered showers. partly sunny.,True
+20190529,18:00,scattered showers. scattered clouds.,True
+20190529,19:00,thundershowers. scattered clouds.,True
+20190529,20:00,thunderstorms. passing clouds.,True
+20190529,21:00,passing clouds.,False
+20190529,22:00,passing clouds.,False
+20190529,23:00,passing clouds.,False
+20190530,1:00,passing clouds.,False
+20190530,2:00,partly cloudy.,False
+20190530,4:00,strong thunderstorms. passing clouds.,True
+20190530,6:00,passing clouds.,False
+20190530,7:00,broken clouds.,False
+20190530,8:00,partly sunny.,False
+20190530,9:00,partly sunny.,False
+20190530,10:00,partly sunny.,False
+20190530,11:00,partly sunny.,False
+20190530,12:00,partly sunny.,False
+20190530,13:00,scattered showers. broken clouds.,True
+20190530,14:00,thunderstorms. scattered clouds.,True
+20190530,15:00,light rain. partly sunny.,True
+20190530,16:00,partly sunny.,False
+20190530,17:00,partly sunny.,False
+20190530,18:00,partly sunny.,False
+20190530,19:00,partly sunny.,False
+20190530,20:00,partly cloudy.,False
+20190530,21:00,passing clouds.,False
+20190530,22:00,passing clouds.,False
+20190530,23:00,passing clouds.,False
+20190531,1:00,passing clouds.,False
+20190531,2:00,passing clouds.,False
+20190531,3:00,passing clouds.,False
+20190531,4:00,passing clouds.,False
+20190531,5:00,partly cloudy.,False
+20190531,6:00,passing clouds.,False
+20190531,7:00,partly sunny.,False
+20190531,8:00,partly sunny.,False
+20190531,9:00,broken clouds.,False
+20190531,10:00,broken clouds.,False
+20190531,11:00,broken clouds.,False
+20190531,12:00,broken clouds.,False
+20190531,13:00,thundershowers. partly sunny.,True
+20190531,14:00,broken clouds.,False
+20190531,15:00,scattered clouds.,False
+20190531,16:00,scattered clouds.,False
+20190531,17:00,partly sunny.,False
+20190531,18:00,partly sunny.,False
+20190531,19:00,partly sunny.,False
+20190531,20:00,partly cloudy.,False
+20190531,21:00,partly cloudy.,False
+20190531,22:00,passing clouds.,False
+20190531,23:00,passing clouds.,False
